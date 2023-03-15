@@ -35,7 +35,6 @@ class Customer{
     }
     public void setMale(String isMale){
         this.isMale=isMale;
-
     }
 
 
